@@ -1,2 +1,6 @@
-# Tutoriais
-Tutoriais para o processamento de dados biológicos de EMG, EEG e outros
+# Tópicos Avançados 2
+Atividades da disciplina de Tópicos Avançados 2
+
+Alunos:
+Lucas Donadi,
+Matheus Patriarca
